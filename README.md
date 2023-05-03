@@ -37,7 +37,7 @@ The following steps are needed to be carried out:
 
 1) We don't have any missing and duplicate values is the dataset.
 
-## __2) Goal 1 :-__  
+### __2) Goal 1 :-__  
 
 From the above graph we can conclude that from the EmpDepartment Development department is showing High performance rating
 
@@ -53,7 +53,7 @@ Research & Development: The age factor is not deviating from the level of perfor
 
 Finance: The finance department performance is exponentially decreasing when age increases. The male employees are doing good. The experience factor is inversely relating to the performance level.
 
-__3) Goal 2:-__
+### __3) Goal 2:-__
 
 ***i)Employee Enviroment satisfaction:***
 
@@ -67,7 +67,7 @@ More Number of Employees whose salary hike percentage belongs to 11-19 % are get
 
 In EmpWorkLifeBalance, level 3 is showing high Performance Rating of employees.
 
-__4) Goal 4:-__
+### __4) Goal 4:-__
 
 The trained model is created using the machine learning algorithm as follows with the accuracy score
 
