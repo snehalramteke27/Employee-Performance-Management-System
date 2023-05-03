@@ -1,13 +1,20 @@
  # Employee-Performance-Management-System
 
-The data is supervised and categorical. The predictor variables are ordinal and a few among them are nominal. The target variable 'Performance Rating' is ordinal.
+The data is supervised and categorical.
+
+The predictor variables are ordinal and a few among them are nominal. The target variable 'Performance Rating' is ordinal.
+
 To analyze the data, various data processing techniques like Label Encoding and Standardization is used. Correlation Coeffecient is used to interpret the relationship between variables. The most important features selected are Department, Job Role, Environment Satisfaction, Last Salary Hike Percent, Work Life Balance.
+
 For training the data and predicting the target, algorithms used are Logistic Regression, Support Vector Machine, Naive Bayes, and K-Nearest Neighbor.
+
 A separate analysis of Department wise Performance is to be carried out. Data Analysis Summary.
 
 # Summary -
 
-The project is to be done with the purpose of finding out factors which affect the Performance of the employees, training a model which accurately predicts the Performance Rating of the employee, analyzing the data to provide recommendations to improve the performance and gain insights from the analysis. The following steps are needed to be carried out:
+The project is to be done with the purpose of finding out factors which affect the Performance of the employees, training a model which accurately predicts the Performance Rating of the employee, analyzing the data to provide recommendations to improve the performance and gain insights from the analysis.
+
+The following steps are needed to be carried out:
 
 (a) Import the data provided, find out the predictor & target variables and look for missing values.
 
@@ -48,15 +55,15 @@ Finance: The finance department performance is exponentially decreasing when age
 
 __3) Goal 2:-__
 
-i)Employee Enviroment satisfaction:
+***i)Employee Enviroment satisfaction:***
 
 Maximum Number of Employees Performance Rating belongs to EmpEnvironmentSatisfaction Level 3 & Level 4, It contains 367 & 361.
 
-2)Employee last salary hike percent:
+***2)Employee last salary hike percent:***
 
 More Number of Employees whose salary hike percentage belongs to 11-19 % are getting 2 & 3 performance rating Maximum time. Employees whose salary hike percentage is in between 20-22%, There performance rating is 4
 
-3)Employee work life balance:
+***3)Employee work life balance:***
 
 In EmpWorkLifeBalance, level 3 is showing high Performance Rating of employees.
 
