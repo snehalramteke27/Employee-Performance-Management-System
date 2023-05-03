@@ -30,7 +30,7 @@ The project is to be done with the purpose of finding out factors which affect t
 
 1) We don't have any missing and duplicate values is the dataset.
 
-2) Goal 1 :-
+__2) Goal 1 :-__
 
 From the above graph we can conclude that from the EmpDepartment Development department is showing High performance rating
 
