@@ -37,7 +37,7 @@ The following steps are needed to be carried out:
 
 1) We don't have any missing and duplicate values is the dataset.
 
-__2) Goal 1 :-__
+<u>  __2) Goal 1 :-__<u>  
 
 From the above graph we can conclude that from the EmpDepartment Development department is showing High performance rating
 
