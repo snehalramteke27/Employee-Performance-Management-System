@@ -67,7 +67,7 @@ More Number of Employees whose salary hike percentage belongs to 11-19 % are get
 
 In EmpWorkLifeBalance, level 3 is showing high Performance Rating of employees.
 
-### __4) Goal 4:-__
+### __4) Goal 3:-__
 
 The trained model is created using the machine learning algorithm as follows with the accuracy score
 
