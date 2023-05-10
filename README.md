@@ -35,7 +35,7 @@ The following steps are needed to be carried out:
 
 # Results
 
-1) We don't have any missing and duplicate values is the dataset.
+### __1)__ We don't have any missing and duplicate values is the dataset.
 
 ### __2) Goal 1 :-__  
 
@@ -81,4 +81,4 @@ iv) Naive Bayes Bernoulli : 79.44% accuracy
 
 __The Maximum accuracy score is support vector machine is 84.40%__
 
-5) The goal is to export the model with the highest accuracy to make accurate predictions for new employee performance data and provide recommendations to improve employee performance based on insights gained from the analysis.
+### __5)__ The goal is to export the model with the highest accuracy to make accurate predictions for new employee performance data and provide recommendations to improve employee performance based on insights gained from the analysis.
