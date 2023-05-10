@@ -81,5 +81,4 @@ iv) Naive Bayes Bernoulli : 79.44% accuracy
 
 __The Maximum accuracy score is support vector machine is 84.40%__
 
-### __5) Goal 5:-__
-The goal is to export the model with the highest accuracy to make accurate predictions for new employee performance data and provide recommendations to improve employee performance based on insights gained from the analysis.
+5) The goal is to export the model with the highest accuracy to make accurate predictions for new employee performance data and provide recommendations to improve employee performance based on insights gained from the analysis.
